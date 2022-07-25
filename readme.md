@@ -21,7 +21,7 @@ __**run these command for setup tailwind.**__
 
 
 
->** OUTPUT LOOK THIS :**
+>  OUTPUT LOOK THIS :
 
 
 <img src="https://media.discordapp.net/attachments/986698456213110875/1001002422778466344/njjs.png?width=857&height=427"
